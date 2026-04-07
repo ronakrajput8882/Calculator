@@ -65,9 +65,9 @@ Calculator/
 │   │   ├── Calculator.jsx     # Main calculator component
 │   │   ├── Display.jsx        # Expression and result display
 │   │   └── Button.jsx         # Individual button component
-│   ├── App.jsx                # Root component
-│   ├── App.css                # Global styles
-│   └── main.jsx               # Vite entry point
+│   ├── App.jsx                
+│   ├── App.css                
+│   └── main.jsx               
 │
 └── README.md
 ```
@@ -116,7 +116,7 @@ npm run dev
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaksinh-rajput8882)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronakrajput8882)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/techwithronak)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronakrajput8882)
 
