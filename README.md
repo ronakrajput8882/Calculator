@@ -57,7 +57,20 @@ Button Press → State Update (useState) → Expression Evaluation → Display R
 
 ## 🗂️ Repository Structure
 
-
+```
+Calculator/
+│
+├── src/
+│   ├── components/
+│   │   ├── Calculator.jsx     # Main calculator component
+│   │   ├── Display.jsx        # Expression and result display
+│   │   └── Button.jsx         # Individual button component
+│   ├── App.jsx                
+│   ├── App.css                
+│   └── main.jsx               
+│
+└── README.md
+```
 
 ---
 
